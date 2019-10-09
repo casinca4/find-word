@@ -42,6 +42,8 @@ Number of chunks: 8
 Found 'function' 8 times
 ```
 
+(Diese Aufgabe ersetzt die erste, also localhost kann ersetzt werden: let word = 'localhost' kann ersetzt ewrden.)
+
 -   The program should be able to find words from other files. If you pass the word to find as the first argument and the path to your file as a second argument on your program, the output will look like the following example: 
 
 ```bash
